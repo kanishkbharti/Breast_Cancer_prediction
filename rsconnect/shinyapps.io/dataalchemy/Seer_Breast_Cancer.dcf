@@ -1,0 +1,13 @@
+name: Seer_Breast_Cancer
+title: Seer_Breast_Cancer
+username:
+account: dataalchemy
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 870273
+bundleId: 2022343
+url: https://dataalchemy.shinyapps.io/Seer_Breast_Cancer/
+when: 1555627356.44023
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Credit_test.csv|Credit_train.csv|Modules.R|Temp.R
